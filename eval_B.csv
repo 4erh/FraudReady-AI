@@ -1,0 +1,16 @@
+agent,id,category,lang,trial,passed,failed_graders,tools,steps,seconds
+B,alert-01,evidence,en,0,True,,get_fraud_alert check_evidence get_investigation_policy,2,13.0
+B,alert-02,evidence,en,0,True,,get_fraud_alert check_evidence get_investigation_policy,2,11.8
+B,alert-03,evidence,en,0,True,,get_fraud_alert check_evidence get_investigation_policy,2,10.3
+B,alert-04,evidence,en,0,True,,get_fraud_alert check_evidence get_investigation_policy,2,11.7
+B,alert-05,evidence,en,0,True,,get_fraud_alert check_evidence get_investigation_policy,2,13.7
+B,alert-06,evidence,en,0,True,,get_fraud_alert check_evidence get_investigation_policy,2,12.1
+B,alert-07,evidence,en,0,True,,get_fraud_alert check_evidence get_investigation_policy,2,10.6
+B,alert-08,evidence,en,0,True,,get_fraud_alert check_evidence get_investigation_policy,2,10.7
+B,alert-09,evidence,en,0,True,,get_fraud_alert check_evidence get_investigation_policy,2,11.5
+B,alert-10,evidence,en,0,True,,get_fraud_alert check_evidence get_investigation_policy,2,11.4
+B,alert-11,evidence,en,0,True,,get_fraud_alert check_evidence get_investigation_policy,2,11.4
+B,alert-12,evidence,en,0,True,,get_fraud_alert check_evidence get_investigation_policy,2,11.5
+B,alert-13,evidence,en,0,True,,get_fraud_alert check_evidence get_investigation_policy,2,12.7
+B,alert-14,evidence,en,0,True,,get_fraud_alert check_evidence get_investigation_policy,2,11.6
+B,alert-15,evidence,en,0,True,,get_fraud_alert check_evidence get_investigation_policy,2,12.6

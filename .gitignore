@@ -1,0 +1,15 @@
+# Local environments and secrets
+.env
+**/.env
+.venv/
+**/.venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+# Session outputs: generated locally after running evaluations
+labs/artifacts/
+labs/.cache/
+.streamlit/secrets.toml
+# OS
+.DS_Store
+Thumbs.db
